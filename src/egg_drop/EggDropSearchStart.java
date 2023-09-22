@@ -1,3 +1,5 @@
+package egg_drop;
+
 public class EggDropSearchStart {
     private int searchStart;
     private int interval;

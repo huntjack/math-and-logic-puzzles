@@ -1,3 +1,5 @@
+package poison;
+
 import java.util.*;
 
 public class TestStrip {

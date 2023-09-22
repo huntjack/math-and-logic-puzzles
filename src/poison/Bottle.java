@@ -1,3 +1,5 @@
+package poison;
+
 public class Bottle {
 
     private int id;
